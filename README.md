@@ -16,4 +16,7 @@ Documentation of project
 
 Deployed using Netlify- 
 
+### Approach
+
+
 ### Implementation Steps
