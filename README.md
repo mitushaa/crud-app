@@ -8,3 +8,10 @@
 4. Add Pagination to the support to the list when there are more than 4 entries <br><br>
 
 ### What this project contains:
+
+Project File <br>
+Documentation of project
+
+### Project Link 
+
+Deployed using Netlify- 
