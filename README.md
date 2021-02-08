@@ -15,3 +15,5 @@ Documentation of project
 ### Project Link 
 
 Deployed using Netlify- 
+
+### Implementation Steps
